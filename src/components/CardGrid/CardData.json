@@ -1,0 +1,120 @@
+{
+  "compsci": [
+    {
+      "id": 1,
+      "title": "Course Recommender",
+      "description": "Recommendation system for course at IU Bloomington, created using MPI for Python.",
+      "buttons": [
+        {
+          "text": "View report",
+          "link": "/portfolio/documents/CourseRecommendationReportHazelLitwiler.pdf"
+        },
+        {
+          "text": "View on GitHub",
+          "link": "https://github.com/HazelLitwiller/course-recommender-mpi-python"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "description": "The site you are currently viewing, built with React and Bootstrap.",
+      "buttons": [
+        {
+          "text": "View on GitHub",
+          "link": "https://github.com/HazelLitwiller/portfolio"
+        }
+      ]
+    }
+  ],
+  "gamedev": [
+    {
+      "id": 1,
+      "title": "Sounds of Space",
+      "description": "A space exploration game created at IU Bloomington in collaboration with Jamac and Winzlo",
+      "image": {
+        "src": "https://img.itch.zone/aW1nLzg4MzM0NjMucG5n/315x250%23c/4i5bCf.png",
+        "alt": "Screenshot of Sounds of Space game showing a spaceship flying through an asteroid field"
+      },
+      "buttons": [
+        {
+          "text": "Play on Itch.io",
+          "link": "https://jamac.itch.io/sounds-of-space"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sounds of Space",
+      "description": "An FPS time trial with a space aesthetic",
+      "image": {
+        "src": "https://img.itch.zone/aW1nLzMzNTMyMTkucG5n/315x250%23c/lYXjh9.png",
+        "alt": "Screenshot of Target Hunter game showing a spaceship shooting at targets in space"
+      },
+      "buttons": [
+        {
+          "text": "Play on Itch.io",
+          "link": "https://hazelyd.itch.io/target-hunter"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sound Design Using FMOD for Unity",
+      "description": "A document about using FMOD to create interactive audio",
+      "buttons": [
+        {
+          "text": "View document",
+          "link": "/portfolio/documents/FMODSoundDesignUnity.pdf"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Sound Beacons in a Procedural Solar System",
+      "description": "A document about creating procedural sound beacons in Unity",
+      "buttons": [
+        {
+          "text": "View document",
+          "link": "/portfolio/documents/ProceduralBeaconsUnity.pdf"
+        }
+      ]
+    }
+  ],
+  "music": [
+    {
+      "id": 1,
+      "title": "Forest (loop)",
+      "description": "Track licensed under CC BY-NC-SA",
+      "buttons": [
+        {
+          "text": "Listen on SoundCloud",
+          "link": "https://soundcloud.com/hazelyd/forest"
+        }
+      ],
+      "audioSrc": "forest_loop"
+    },
+    {
+      "id": 2,
+      "title": "Outro",
+      "description": "Track licensed under CC BY-NC-SA",
+      "buttons": [
+        {
+          "text": "Listen on SoundCloud",
+          "link": "https://soundcloud.com/hazelyd/outro"
+        }
+      ],
+      "audioSrc": "outro"
+    },
+    {
+      "id": 3,
+      "title": "View all tracks",
+      "buttons": [
+        {
+          "text": "Listen on SoundCloud",
+          "link": "https://soundcloud.com/hazelyd"
+        }
+      ]
+    }
+  ]
+}
