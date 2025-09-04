@@ -16,7 +16,23 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
+      "title": "Destiny 2 Flinch Calculator",
+      "description": "A flinch calculator for the FPS game Destiny 2, built with React and Bootstrap.",
+      "buttons": [
+        {
+          "text": "Visit Site",
+          "link": "https://hazellitwiller.github.io/d2-flinch-calculator/"
+        },
+        {
+          "text": "View on GitHub",
+          "link": "https://github.com/HazelLitwiller/d2-flinch-calculator"
+        }
+
+      ]
+    },
+    {
+      "id": 3,
       "title": "Portfolio Website",
       "description": "The site you are currently viewing, built with React and Bootstrap.",
       "buttons": [
